@@ -2,7 +2,7 @@
 
 import { mockChats } from "@/lib/mockChats";
 import FilterBar from "./FilterBar";
-import TagBadge from "@/app/ui-components/Tags";
+import TagBadge from "@/ui-components/Tags";
 // import Image from "next/image";
 
 interface Props {
